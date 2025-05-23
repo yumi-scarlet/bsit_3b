@@ -13,8 +13,14 @@
     </div>
     <!-- /.content-header -->
 
+    
     <!-- Main content -->
     <div class="content">
+
+    <div> <h1>what hafen vella? why u crying again?</h1> </div>
+    <div><p>i know laravel rayt?</p></div>
+    <br>
+    <br>
         <div class="container-fluid">
         <a href="{{ route('employee.create') }}" class="btn btn-info">Add New Employee</a>
         <div class="row">
