@@ -33,8 +33,21 @@ class employeecontroller extends Controller
         
     ]);
 
-    employee::create($request->all());
-    return view ('employee.create');
+    // employee::create($request->all());
+    // return view ('employee.edit');
+    // Wendell Sobrang Pogi Crush ng Lahat
+     // Wendell Sobrang Pogi Crush ng Lahat
+      // Wendell Sobrang Pogi Crush ng Lahat
+       // Wendell Sobrang Pogi Crush ng Lahat
+        // Wendell Sobrang Pogi Crush ng Lahat
+         // Wendell Sobrang Pogi Crush ng Lahat
+          // Wendell Sobrang Pogi Crush ng Lahat
+           // Wendell Sobrang Pogi Crush ng Lahat
+            // Wendell Sobrang Pogi Crush ng Lahat
+             // Wendell Sobrang Pogi Crush ng Lahat
+              // Wendell Sobrang Pogi Crush ng Lahat
+               // Wendell Sobrang Pogi Crush ng Lahat
+                // Wendell Sobrang Pogi Crush ng Lahat
     }
 
     public function edit( int $id)
